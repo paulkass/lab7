@@ -1,0 +1,11 @@
+// Place all the styles related to the StaticPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {background-image: url(http://assets.panda.org/img/original/salmon_wwfwallpaper.jpg); font-family:Arial}
+h1 {font-size: 35pt; font-weight:bold}
+dt {font-size:13pt; width: 15%}
+dt:hover {font-weight:bold; border: 1px dotted black}
+a {color:red; width: 15%}
+a:hover {font-weight:bold; border: 1px dashed red}
+
